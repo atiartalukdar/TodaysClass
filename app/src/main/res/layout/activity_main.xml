@@ -12,7 +12,7 @@
          android:layout_height="0dp"
          android:layout_weight="1"
          android:textAppearance="?android:attr/textAppearanceLarge"
-         android:text="Large Texta"
+         android:text="Large Text"
          android:id="@+id/textView" />
 
      <LinearLayout
